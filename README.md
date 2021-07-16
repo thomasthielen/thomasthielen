@@ -1,0 +1,3 @@
+- Hi, I'm Thomas.
+- I am studying Business Informatics at the University of Mannheim.
+- This is my personal account with which I want to realize some private and fun projects.
