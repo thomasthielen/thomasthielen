@@ -1,3 +1,3 @@
 - Hi, I'm Thomas.
-- I am studying Business Informatics at the University of Mannheim.
-- This is my private account which I use to realise some personal and fun projects, as well as synchronise and publish my source code for university projects.
+- I am studying Business Informatics towards my B.Sc. at the University of Mannheim.
+- This is a strictly private account. While some projects may be the result of courses within my studies, others are worked on simply for the fun of it.
