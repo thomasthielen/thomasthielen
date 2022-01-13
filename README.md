@@ -1,3 +1,3 @@
 - Hi, I'm Thomas.
 - I am studying Business Informatics towards my B.Sc. at the University of Mannheim.
-- This is a strictly private account. While some projects may be the result of courses within my studies, others are worked on simply for the fun of it.
+- This is a strictly private account. While some projects may be the result of courses within my studies, their respective repositories were not part of the grading process.
