@@ -1,3 +1,3 @@
 - Hi, I'm Thomas.
-- I am studying Business Informatics towards my B.Sc. at the University of Mannheim.
+- I am a grad student in computer science at RWTH Aachen.
 - This is a strictly private account. While some projects may be the result of courses within my studies, their respective repositories were not part of the grading process.
