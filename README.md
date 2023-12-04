@@ -1,2 +1,3 @@
-- Hi, I'm Thomas.
-- I am a grad student in computer science at RWTH Aachen.
+- Hi, I'm Thomas
+- I am a grad student in computer science at RWTH Aachen
+- I like coding and I mostly suck at CTFs
